@@ -2,12 +2,12 @@ Encoding: latin1
 Package: MatrixCorrelation
 Type: Package
 Title: Matrix Correlation Coefficients
-Version: 0.8.1
-Date: 2016-04-24
+Version: 0.9
+Date: 2016-10-12
 Authors@R: c(person("Kristian Hovde", "Liland", role = c("aut","cre"), email="kristian.liland@nofima.no"),
- person("Tormod", "NÃ¦s", role=c("ctb")), person("Ulf Geir", "Indahl", role="ctb"))
+ person("Tormod", "Næs", role=c("ctb")), person("Ulf Geir", "Indahl", role="ctb"))
 Author: Kristian Hovde Liland [aut, cre],
-  Tormod NÃ¦s [ctb],
+  Tormod Næs [ctb],
   Ulf Geir Indahl [ctb]
 Maintainer: Kristian Hovde Liland <kristian.liland@nofima.no>
 Description: Computation and visualization of matrix correlation coefficients.
@@ -21,6 +21,6 @@ LazyData: TRUE
 RoxygenNote: 5.0.1
 LinkingTo: progress, Rcpp, RcppArmadillo
 NeedsCompilation: yes
-Packaged: 2016-04-25 08:17:49 UTC; kristian.liland
+Packaged: 2016-10-12 20:14:38 UTC; kristian.liland
 Repository: CRAN
-Date/Publication: 2016-04-25 15:32:10
+Date/Publication: 2016-10-12 23:52:42
