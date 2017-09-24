@@ -1,10 +1,10 @@
-71d2b00eec949e71aacda7d1ccf6c6b8 *DESCRIPTION
+5bc12b4d37b3dd1a54c9d11979892bfd *DESCRIPTION
 f6e97979bca86d9d19a0e9d248097e81 *NAMESPACE
 967082b7bb6a46b706ad553b099ef6ff *R/MatrixCorrelation.R
 172eccd1b6c46ef45b7dd507309fbba0 *R/PCAcv.R
 85a22b59c9dc86bb1601ed411cb130aa *R/PMI.R
 ef12d662c1f2fb0d665dfd42913c3c0b *R/RV.R
-d64e17aa59ca6b412edc4d0bc6ff7136 *R/RcppExports.R
+0ffaa7268f4f0109b3a7cf4549d33333 *R/RcppExports.R
 14467ec19130193832ccdb2eb504790e *R/SMI.R
 ba61360acc74713e3fa289cdac39b379 *R/SMI_results.R
 4e1a2f19f2ee31748623d3ee252b13ff *R/SMI_significance.R
@@ -14,7 +14,7 @@ e901986c3c6f295d12cbcfef34560937 *R/cor.test_eq.R
 012f2dad1a91d3e9e70a9a3a399706ff *R/rx.R
 ffb3e031900a459262412c233b540dcc *data/candy.rda
 1d08f5d3a7c5e497e655077ce7cd0403 *inst/CITATION
-41b14ee3921617d4c1f94520a4d8c84c *man/MatrixCorrelation.Rd
+f2959e061ff5111c1732e353220fd2fb *man/MatrixCorrelation.Rd
 c4875ecdbcafe3443b787277a6ebc7c8 *man/PCAcv.Rd
 1eda22aad9854e9fe75fa9fcf899b1d0 *man/PSI.Rd
 c97074bb7ec5677178c87a69ed209bf3 *man/RV.Rd
