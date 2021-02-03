@@ -1,6 +1,6 @@
-67b48fa93ab8c5dac25c6e7f095e5c39 *DESCRIPTION
+7589ec04ed2cd2dff000507855b02c12 *DESCRIPTION
 cf5cedf6ece8862a08e832e4fda16405 *NAMESPACE
-a9e5076aef3c7d4f215c453cf794a3e8 *NEWS
+79efafe92eba2b64ba25763dd6680408 *NEWS
 b1567b85cc019c4128f5e7503a570879 *R/Coxhead.R
 6543287bed3825e378a0aba28658199a *R/MatrixCorrelation.R
 172eccd1b6c46ef45b7dd507309fbba0 *R/PCAcv.R
@@ -35,5 +35,5 @@ e8e6970766413473d5e81150bdd99e87 *man/r1.Rd
 5a78dc024092268408cc82c43117e75e *src/RV2cpp.cpp
 0dcc2c2646ea368708bb824477bf8bd8 *src/RcppExports.cpp
 596826132237dabad9d24b11586fcf12 *src/init.c
-cd83a6e155915aa63157d2d45a8215f3 *src/significantRcpp.cpp
-59c2c3016e3982d1011cabd09f422730 *src/significantRepRcpp.cpp
+d27e73d516c0104f7b5ecef56efa7692 *src/significantRcpp.cpp
+6c5ed4711ec2f45e0e8ed462f423ca89 *src/significantRepRcpp.cpp
